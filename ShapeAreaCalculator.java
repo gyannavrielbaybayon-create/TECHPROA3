@@ -1,4 +1,4 @@
-public class Q3Sw4part2 {
+public class  {
         // Calculate area of a square (1 integer argument)
             public int calculateArea(int side){
                     return side * side;
@@ -12,7 +12,7 @@ public class Q3Sw4part2 {
 
                                                     // Main method to run the program
                                                         public static void main(String[] args) {
-                                                                Q3Sw4part2 calculator = new Q3Sw4part2();
+                                                                ShapeAreaCalculator calculator = new ShapeAreaCalculator();
 
                                                                         // Call the square area method
                                                                                 int squareArea = calculator.calculateArea(5);
@@ -24,4 +24,4 @@ public class Q3Sw4part2 {
                                                                                                                     }
                                                                                                                     }
                                                                                                                     
-
+}
