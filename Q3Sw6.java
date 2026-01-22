@@ -7,7 +7,7 @@
 	        }
 	    }
 	    
-	   public class main {
+	   public class Q3Sw6 {
 	public static void main(String[] args) {
 	    
 	         Student s1 = null;
