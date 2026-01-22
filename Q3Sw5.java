@@ -54,7 +54,7 @@ class CheckingAccount extends BankAccount {
         System.out.println(RED + "Checking accounts do not earn interest. Processing fee: $" + fee + RESET);
     }
 }
-public class Main {
+public class Q3Sw5 {
 	public static void main(String[] args) {
 		
 		BankAccount mySavings = new SavingsAccount("SAV-9910", 1000.00);
